@@ -1,16 +1,28 @@
-## Hi there 👋
+## Привет! Я Виктория 👋
 
-<!--
-**vikaminayeva/vikaminayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | Аналитик данных
 
-Here are some ideas to get you started:
+Я специализируюсь на исследовательской работе с данными (EDA), поиске скрытых аномалий в датасетах и проверке продуктовых гипотез. 
+Благодаря бэкграунду в разработке, я отлично понимаю, как устроены пайплайны данных изнутри, как проектируются базы данных и как эффективно автоматизировать сбор и обработку сырых логов для последующего анализа.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Мой инженерно-аналитический стек
+
+* **Data Analysis & Viz:** Python (Pandas, NumPy, Matplotlib, Seaborn) — для очистки данных, разведочного анализа и визуализации распределений.
+* **Databases:** SQL (проектирование реляционных схем, сложные JOIN-объединения, агрегация, работа напрямую через CLI/терминал).
+* **Backend & Dev Tools:** Golang (разработка серверной части), Docker (контейнеризация), Git, GitHub.
+* **Аналитические навыки:** Расчет метрик удержания (Retention/Churn Rate), сегментация аудитории, анализ поведения пользователей.
+
+---
+
+### 📊 Мои ключевые проекты (Портфолио)
+
+* 🏦 **[Анализ оттока клиентов банка]([https://github.com](https://github.com/vikaminayeva/bank-customer-churn-analysis))**
+  *  Провела комплексный исследовательский анализ данных (EDA) датасета на 10 000 записей. Выявила аномалии поведения пользователей, построила графики плотности распределения признаков и локализовала группы максимального риска оттока.
+  * **Стек:** Python (Pandas, Seaborn, Matplotlib), Jupyter/Google Colab.
+
+* 🗓️ **[Веб-сервер планировщика задач (Go/SQLite)]((https://github.com/vikaminayeva/task-planner-web-server))**
+  *  Написала полноценный бэкенд-сервис для управления задачами. Реализовала автоматическое развертывание схемы базы данных SQLite при старте, JWT-авторизацию и контейнеризацию сервиса через Docker.
+  * **Стек:** Go (Golang), SQLite, Docker, JWT.
+

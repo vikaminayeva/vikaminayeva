@@ -7,12 +7,16 @@
 
 ###  Мой технологический стек и навыки
 
-| Направление | Инструменты и технологии |
 | **Анализ и проектирование** | Сбор и анализ требований, BRD/FR, NFR, проектирование REST API, OpenAPI/Swagger (YAML/JSON), SOAP, микросервисная архитектура, JWT-аутентификация, ER-диаграммы, системная интеграция, Agile (Scrum, Kanban), Waterfall |
+
 | **Моделирование и схемы** | BPMN 2.0, UML (Sequence, Use Case, Class), C4 Model (Context & Component), XML/XSD, JSON/YAML |
+
 | **Работа с данными и СУБД** | SQL (Advanced: JOIN, Subqueries, агрегация), нормализация БД (до 3NF), PostgreSQL, MySQL, базовый NoSQL (Redis, MongoDB) |
+
 | **Инструменты и инфраструктура** | Jira, Confluence, Git (GitFlow), Docker, Docker Compose, Linux/Bash, Postman, Draw.io, Miro, PlantUML / Mermaid |
+
 | **Языки программирования** | Go (Golang), Python (базово для анализа данных) |
+
 | **Языки** | Русский — родной, Английский — A2 (продолжаю изучение) |
 
 ---
